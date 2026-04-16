@@ -153,8 +153,8 @@ FINANCIAL_KEYWORDS["esg"] = ["carbon", "sustainability", "ESG", "net zero"]
 ---
 
 This project directly demonstrates:
-- ✅ **Generative AI** — LLM-powered financial Q&A
-- ✅ **Information Retrieval** — Semantic search over financial documents
-- ✅ **Information Extraction** — Keyword detection, citation extraction
-- ✅ **Financial Domain** — Built for annual reports, earnings, 10-K filings
-- ✅ **Production Engineering** — Modular pipeline, error handling, configurable parameters
+-  **Generative AI** — LLM-powered financial Q&A
+-  **Information Retrieval** : Semantic search over financial documents
+-  **Information Extraction** : Keyword detection, citation extraction
+-  **Financial Domain** : Built for annual reports, earnings, 10-K filings
+-  **Production Engineering** : Modular pipeline, error handling, configurable parameters
