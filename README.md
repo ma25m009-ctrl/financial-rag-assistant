@@ -1,11 +1,11 @@
-# 📊 FinRAG — Financial Document Intelligence
+#  FinRAG : Financial Document Intelligence
 
 > A production-grade Retrieval-Augmented Generation (RAG) system for financial document analysis.  
 > Built with LangChain · FAISS · Sentence Transformers · Mistral-7B · Streamlit
 
 ---
 
-## 🧠 Architecture Overview
+##  Architecture Overview
 
 ```
 PDF Upload
@@ -31,7 +31,7 @@ Grounded Answer + Citations ← Page numbers, source chunks, keyword highlights
 
 ---
 
-## 🚀 Quickstart
+##  Quickstart
 
 ### 1. Clone & Setup
 
@@ -67,7 +67,7 @@ Open: http://localhost:8501
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 financial-rag/
@@ -80,7 +80,7 @@ financial-rag/
 
 ---
 
-## ⚙️ Features
+##  Features
 
 | Feature | Details |
 |---|---|
@@ -96,7 +96,7 @@ financial-rag/
 
 ---
 
-## 💡 Sample Questions to Try
+##  Sample Questions to Try
 
 - "What are the key risks mentioned in this report?"
 - "Summarize the revenue trends with specific numbers"
@@ -107,7 +107,7 @@ financial-rag/
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 | Parameter | Default | Description |
 |---|---|---|
@@ -119,7 +119,7 @@ financial-rag/
 
 ---
 
-## 🧪 Tech Stack (Resume-ready)
+##  Tech Stack 
 
 - **LangChain** — RAG orchestration, text splitting, document loading
 - **FAISS** — Facebook AI Similarity Search (vector database)
@@ -130,7 +130,6 @@ financial-rag/
 
 ---
 
-## 🏗️ Extending the Project
 
 ### Multi-document support
 ```python
@@ -152,8 +151,6 @@ FINANCIAL_KEYWORDS["esg"] = ["carbon", "sustainability", "ESG", "net zero"]
 ```
 
 ---
-
-## 📊 Relevance to LSEG
 
 This project directly demonstrates:
 - ✅ **Generative AI** — LLM-powered financial Q&A
