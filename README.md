@@ -72,8 +72,7 @@ Open: http://localhost:8501
 ```
 financial-rag/
 ├── app.py                  # Streamlit UI (main entry point)
-├── src/
-│   └── rag_pipeline.py     # Core RAG pipeline
+├── rag_pipeline.py     # Core RAG pipeline
 ├── requirements.txt
 └── README.md
 ```
